@@ -1730,6 +1730,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 91.44) (xy 125.73 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "172a1c74-1b12-4288-957b-5ea5d39bbd8d")
+	)
+	(wire
+		(pts
 			(xy 29.21 67.31) (xy 29.21 60.96)
 		)
 		(stroke
@@ -1787,6 +1797,16 @@
 			(type default)
 		)
 		(uuid "49632f7a-802b-4010-9ed5-1723897be3f2")
+	)
+	(wire
+		(pts
+			(xy 114.3 91.44) (xy 125.73 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57c3449a-62ae-4fed-a34e-07c320b18ce6")
 	)
 	(wire
 		(pts
@@ -1967,6 +1987,16 @@
 			(justify left bottom)
 		)
 		(uuid "14b65c75-4523-4a9a-bebe-a36d5010eba5")
+	)
+	(label "USB_SHIELD"
+		(at 114.3 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3363abf0-1463-4bda-adbb-1e9fd754544e")
 	)
 	(label "USB_CC2"
 		(at 64.77 50.8 180)
@@ -2394,7 +2424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41054fed-3c5c-4644-b897-7f7f29578874")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR039"
 			(at 25.4 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -2454,7 +2484,85 @@
 		(instances
 			(project "Dynakku"
 				(path "/c789b728-e330-430f-b4c1-34535a34c880"
-					(reference "#PWR042")
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 125.73 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42d004fc-f279-4a49-aef4-392d2a0cf8b5")
+		(property "Reference" "#PWR046"
+			(at 125.73 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 125.73 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "684a4fe3-6b77-4e96-9e07-5e09d8e20b1e")
+		)
+		(instances
+			(project "Dynakku"
+				(path "/c789b728-e330-430f-b4c1-34535a34c880"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -2472,7 +2580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46637b92-6550-4437-9550-afec8c7004e3")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR042"
 			(at 90.17 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2532,7 +2640,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/c789b728-e330-430f-b4c1-34535a34c880"
-					(reference "#PWR038")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -2705,7 +2813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c05695b-0338-44d6-84ec-7b5f48e1e49a")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR043"
 			(at 106.68 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2765,7 +2873,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/c789b728-e330-430f-b4c1-34535a34c880"
-					(reference "#PWR039")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -2943,7 +3051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0c27030-6d4c-47ce-af30-0c64f14ec342")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR038"
 			(at 25.4 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -3003,7 +3111,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/c789b728-e330-430f-b4c1-34535a34c880"
-					(reference "#PWR043")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)

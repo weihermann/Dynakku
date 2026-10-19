@@ -5688,7 +5688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N5819HW"
+		(property "Value" "SS34"
 			(at 125.73 120.3324 90)
 			(show_name no)
 			(do_not_autoplace no)

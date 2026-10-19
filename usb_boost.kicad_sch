@@ -1737,7 +1737,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "012a5078-33e2-495c-94dc-ce7ac2175a47")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR033"
 			(at 92.71 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -1797,7 +1797,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "#PWR034")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -2219,7 +2219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e3e118f-831a-4124-92f0-84c89c1c32e5")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR034"
 			(at 152.4 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -2279,7 +2279,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "#PWR035")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -2715,7 +2715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db1bb351-a818-4d6c-9730-5dee8d37bf01")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR035"
 			(at 176.53 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2775,7 +2775,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -2793,7 +2793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb99ae6b-76bc-48cb-8d03-0e7d5a2b184a")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR036"
 			(at 193.04 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2853,7 +2853,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "#PWR031")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -2871,7 +2871,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebe21dd3-df7e-4b05-8fba-c97f2c1bc025")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR032"
 			(at 62.23 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2931,7 +2931,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "#PWR033")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -2949,7 +2949,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5eaf73f-5257-4db7-9dc0-138b4ebae9f4")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR031"
 			(at 38.1 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -3009,7 +3009,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "#PWR032")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
