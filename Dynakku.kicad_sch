@@ -1923,7 +1923,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4dc9d85b-9ef3-4999-9160-a43cdd2884bd")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR03"
 			(at 92.71 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1983,7 +1983,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "#PWR06")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2001,7 +2001,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53f4d608-fb62-477e-a397-fdbea8fb75d8")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 97.028 75.946 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2065,7 +2065,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -2597,7 +2597,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9fb85b99-d0b3-4df1-be2b-89b4d826b71d")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 71.12 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2659,7 +2659,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -2676,7 +2676,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1257ea8-a904-4a99-a131-1507db457066")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR06"
 			(at 113.03 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2736,7 +2736,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2833,7 +2833,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbdce8e1-3833-4e09-ad91-d466f911ab8e")
-		(property "Reference" "D6"
+		(property "Reference" "D5"
 			(at 95.25 59.436 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2900,7 +2900,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "D6")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -2918,7 +2918,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c26e4db6-0310-443d-a9e5-e65c5a839184")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR04"
 			(at 92.71 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2978,7 +2978,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "#PWR03")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2996,7 +2996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c579eb8f-a7f0-45d1-bea3-3315e2e7e886")
-		(property "Reference" "D5"
+		(property "Reference" "D6"
 			(at 96.8375 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3058,7 +3058,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "D5")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3076,8 +3076,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c92bda98-0cd7-4473-9a74-57246ab8b87b")
-		(property "Reference" "R2"
-			(at 94.488 68.58 0)
+		(property "Reference" "R1"
+			(at 94.488 66.548 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3088,7 +3088,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 94.488 66.04 0)
+			(at 94.742 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3140,7 +3140,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3157,7 +3157,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dcb5fbb7-da01-435e-a2b7-6bc1a68cba66")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 53.34 39.116 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3219,7 +3219,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -3237,7 +3237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e031dc0c-e1a3-467a-b935-014bc96f8b15")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR05"
 			(at 113.03 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3297,7 +3297,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/a6a976ba-6389-49ad-86f2-b30a2d1aab45"
-					(reference "#PWR04")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)

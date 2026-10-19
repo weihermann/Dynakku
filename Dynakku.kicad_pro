@@ -433,9 +433,24 @@
         "filename": "mppt_charger.kicad_sch",
         "name": "MPPT Charger",
         "uuid": "edd95343-cce4-490a-8c0b-5a51e267d2d8"
+      },
+      {
+        "filename": "battery_protection.kicad_sch",
+        "name": "Battery Protection",
+        "uuid": "93b5a43d-5922-4941-bc0c-90f3a2987169"
+      },
+      {
+        "filename": "usb_boost.kicad_sch",
+        "name": "USB Boost",
+        "uuid": "ae2c3cd8-d75c-4533-b378-e05723f24e06"
+      },
+      {
+        "filename": "interfaces.kicad_sch",
+        "name": "Interfaces",
+        "uuid": "c789b728-e330-430f-b4c1-34535a34c880"
       }
     ],
-    "used_designators": "#PWR1-25,C1-11,D1-7,J1,L1,Q1-3,R1-13,U1",
+    "used_designators": "#PWR1-45,C1-16,D1-8,F1,J1-4,L1-2,Q1-5,R1-17,U1-3",
     "variants": []
   },
   "sheets": [
@@ -446,6 +461,18 @@
     [
       "edd95343-cce4-490a-8c0b-5a51e267d2d8",
       "MPPT Charger"
+    ],
+    [
+      "93b5a43d-5922-4941-bc0c-90f3a2987169",
+      "Battery Protection"
+    ],
+    [
+      "ae2c3cd8-d75c-4533-b378-e05723f24e06",
+      "USB Boost"
+    ],
+    [
+      "c789b728-e330-430f-b4c1-34535a34c880",
+      "Interfaces"
     ]
   ],
   "text_variables": {},
