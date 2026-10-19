@@ -1553,7 +1553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "008e38fc-8665-44fc-a87d-92cbd769666b")
-		(property "Reference" "C12"
+		(property "Reference" "C14"
 			(at 29.21 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1575,7 +1575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 26.3652 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -1617,7 +1617,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/93b5a43d-5922-4941-bc0c-90f3a2987169"
-					(reference "C12")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -1657,7 +1657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 23.622 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -1895,7 +1895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:VSONP-8-1EP_5x6_P1.27mm"
 			(at 109.22 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2339,7 +2339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 64.262 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -2420,7 +2420,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:VSONP-8-1EP_5x6_P1.27mm"
 			(at 109.22 80.01 0)
 			(hide yes)
 			(show_name no)

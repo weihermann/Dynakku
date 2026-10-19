@@ -1826,6 +1826,12 @@
 		(uuid "431c3315-0f60-45a0-80f6-13d155c25d40")
 	)
 	(junction
+		(at 189.23 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5cfa5ddc-00b4-4b5c-baf5-0bf04473d91f")
+	)
+	(junction
 		(at 171.45 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1842,6 +1848,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f3628ac-516c-42e7-8ab6-243c07ac27da")
+	)
+	(junction
+		(at 179.07 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a76a0f4f-e47c-4082-b8c0-34a1b8f3bfc3")
 	)
 	(junction
 		(at 248.92 119.38)
@@ -1955,13 +1967,23 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 107.95) (xy 191.77 110.49)
+			(xy 198.12 107.95) (xy 198.12 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "09917980-772b-4825-b6d7-2bb3b940eade")
+	)
+	(wire
+		(pts
+			(xy 189.23 101.6) (xy 189.23 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0acfb25a-0522-495e-be12-b733052ca1af")
 	)
 	(wire
 		(pts
@@ -1972,6 +1994,16 @@
 			(type default)
 		)
 		(uuid "0e580f89-428c-4e82-8660-73ac190d396a")
+	)
+	(wire
+		(pts
+			(xy 189.23 114.3) (xy 187.96 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10dd1a59-02a7-43f8-ac27-54f173914414")
 	)
 	(wire
 		(pts
@@ -2025,7 +2057,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 107.95) (xy 177.8 107.95)
+			(xy 171.45 107.95) (xy 179.07 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2055,6 +2087,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 107.95) (xy 189.23 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f10e1fa-3fa8-4bd5-8631-6987438ac99e")
+	)
+	(wire
+		(pts
 			(xy 204.47 152.4) (xy 204.47 149.86)
 		)
 		(stroke
@@ -2072,6 +2114,16 @@
 			(type default)
 		)
 		(uuid "258455f4-866a-4e83-b5f5-1e48e7b86b3f")
+	)
+	(wire
+		(pts
+			(xy 179.07 107.95) (xy 179.07 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27502fa0-885c-4157-ad97-561f83590c14")
 	)
 	(wire
 		(pts
@@ -2125,6 +2177,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 101.6) (xy 187.96 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "351ee996-2424-4eab-b020-17bd1c376007")
+	)
+	(wire
+		(pts
 			(xy 123.19 104.14) (xy 123.19 101.6)
 		)
 		(stroke
@@ -2132,16 +2194,6 @@
 			(type default)
 		)
 		(uuid "36489279-c21a-4c68-8efb-a9d506ee2b31")
-	)
-	(wire
-		(pts
-			(xy 191.77 107.95) (xy 185.42 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57838ef3-9d29-4422-838d-06bfc42b5c3d")
 	)
 	(wire
 		(pts
@@ -2182,6 +2234,26 @@
 			(type default)
 		)
 		(uuid "694198c5-6def-477a-ad26-c2fdf84cf9f6")
+	)
+	(wire
+		(pts
+			(xy 179.07 101.6) (xy 180.34 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e5bc9c6-073f-4369-8f24-0edc2dd0c75a")
+	)
+	(wire
+		(pts
+			(xy 179.07 107.95) (xy 180.34 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70f5e344-f3c7-4682-a02d-838f205d45e4")
 	)
 	(wire
 		(pts
@@ -2425,6 +2497,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 107.95) (xy 198.12 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a99d33f2-016d-4795-bbb4-d5a67d963953")
+	)
+	(wire
+		(pts
 			(xy 86.36 114.3) (xy 73.66 114.3)
 		)
 		(stroke
@@ -2452,6 +2534,16 @@
 			(type default)
 		)
 		(uuid "b2588efc-55c0-4dcf-a362-d8d060f3d4b6")
+	)
+	(wire
+		(pts
+			(xy 179.07 114.3) (xy 180.34 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b469ce78-9783-402b-8109-db4b0e90e1fe")
 	)
 	(wire
 		(pts
@@ -2525,6 +2617,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 107.95) (xy 187.96 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c701d8ba-e668-4564-a380-fc87a7603192")
+	)
+	(wire
+		(pts
 			(xy 73.66 38.1) (xy 93.98 38.1)
 		)
 		(stroke
@@ -2542,6 +2644,16 @@
 			(type default)
 		)
 		(uuid "d4466720-8b5c-4e76-bbf1-a07468f37261")
+	)
+	(wire
+		(pts
+			(xy 179.07 101.6) (xy 179.07 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6d43081-7b44-4b25-9f83-0e0b19dcd93a")
 	)
 	(wire
 		(pts
@@ -2947,7 +3059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 247.142 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -3184,7 +3296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:VSONP-8-1EP_5x6_P1.27mm"
 			(at 173.99 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -3302,7 +3414,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 247.142 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -3384,7 +3496,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 124.1552 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -3444,7 +3556,7 @@
 		(dnp no)
 		(uuid "0f031275-4b3e-4190-b40a-30025d4245b9")
 		(property "Reference" "Q2"
-			(at 173.736 114.3 0)
+			(at 171.958 120.142 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3455,7 +3567,7 @@
 			)
 		)
 		(property "Value" "CSD17577Q3A"
-			(at 173.736 116.84 0)
+			(at 171.958 122.682 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3465,7 +3577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:VSONP-8-1EP_5x6_P1.27mm"
 			(at 173.99 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -3550,6 +3662,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 184.15 107.95 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "16136726-8d65-4516-8719-e437258a1e57")
+		(property "Reference" "C9"
+			(at 185.674 104.902 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1µ 50V"
+			(at 185.674 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 187.96 106.9848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 184.15 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "74b12fee-47d6-4b98-8457-c637fdf3cb84")
+		)
+		(pin "2"
+			(uuid "273d84e4-ba05-4532-b2da-e6da69d00f4f")
+		)
+		(instances
+			(project "Dynakku"
+				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 73.66 120.65 0)
 		(unit 1)
@@ -3583,7 +3776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 71.882 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -3665,7 +3858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.372 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -3825,7 +4018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 46.6852 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -3907,7 +4100,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 97.282 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -4199,7 +4392,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69136efe-f900-4a35-b659-62ea0ad5dcfc")
-		(property "Reference" "C10"
+		(property "Reference" "C12"
 			(at 216.662 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4210,7 +4403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ 35V"
+		(property "Value" "10µ 16V"
 			(at 210.82 120.396 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4221,7 +4414,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 223.2152 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -4263,7 +4456,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -4381,7 +4574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 124.1552 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4509,7 +4702,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.77 110.49 0)
+		(at 198.12 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4519,7 +4712,7 @@
 		(dnp no)
 		(uuid "7c27d113-da89-4482-9130-c58fb999025d")
 		(property "Reference" "#PWR019"
-			(at 191.77 116.84 0)
+			(at 198.12 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4530,7 +4723,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 195.072 110.744 0)
+			(at 201.422 110.744 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4540,7 +4733,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 110.49 0)
+			(at 198.12 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4551,7 +4744,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 110.49 0)
+			(at 198.12 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4562,7 +4755,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 110.49 0)
+			(at 198.12 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4618,7 +4811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 71.882 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -4983,7 +5176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 100.0252 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5064,7 +5257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 22.5552 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -5351,6 +5544,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 184.15 114.3 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c4141d65-2cfc-4663-89c4-c626cf90a194")
+		(property "Reference" "C10"
+			(at 185.674 111.252 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1µ 50V"
+			(at 185.674 113.03 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 187.96 113.3348 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 184.15 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "142999e2-53d2-46ec-a018-6f69ca62fc94")
+		)
+		(pin "2"
+			(uuid "e87c2d48-d851-4f94-a9b7-b2fd4badec3d")
+		)
+		(instances
+			(project "Dynakku"
+				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 222.25 133.35 0)
 		(unit 1)
@@ -5517,7 +5791,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5bae1e2-3f9f-4ebe-b2a1-4824c86124c6")
-		(property "Reference" "C11"
+		(property "Reference" "C13"
 			(at 230.886 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5528,7 +5802,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ 35V"
+		(property "Value" "10µ 16V"
 			(at 226.314 120.396 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5539,7 +5813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 238.4552 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -5581,7 +5855,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
-					(reference "C11")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -5699,7 +5973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMC_Handsoldering"
 			(at 123.19 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5742,85 +6016,6 @@
 			(project "Dynakku"
 				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
 					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 181.61 107.95 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e5b8a236-a2c0-4b28-879a-b46483110511")
-		(property "Reference" "C8"
-			(at 181.61 101.346 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10µ 35V"
-			(at 181.61 103.886 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 106.9848 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 181.61 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 181.61 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "66f5c856-3984-45be-a615-71566ee52d85")
-		)
-		(pin "1"
-			(uuid "09baa419-401f-477e-850d-4e660d7e62f8")
-		)
-		(instances
-			(project "Dynakku"
-				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -5915,7 +6110,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed936ad7-8c22-436e-a870-eb5297162634")
-		(property "Reference" "C9"
+		(property "Reference" "C11"
 			(at 196.088 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5937,7 +6132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 194.0052 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -5979,7 +6174,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
-					(reference "C9")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -6019,7 +6214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.372 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -6068,6 +6263,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 184.15 101.6 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f9b840e7-2b1f-4536-9b49-c64eb77d27e6")
+		(property "Reference" "C8"
+			(at 185.674 98.044 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1µ 50V"
+			(at 185.674 99.822 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 187.96 100.6348 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 184.15 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "73e24995-a974-42a9-b8ac-754f37a9bb7f")
+		)
+		(pin "2"
+			(uuid "e26e7d29-fd93-4d4d-a39c-0a2d68fd37e2")
+		)
+		(instances
+			(project "Dynakku"
+				(path "/edd95343-cce4-490a-8c0b-5a51e267d2d8"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 73.66 107.95 0)
 		(unit 1)
@@ -6101,7 +6377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 71.882 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -6182,7 +6458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 202.692 146.05 90)
 			(hide yes)
 			(show_name no)

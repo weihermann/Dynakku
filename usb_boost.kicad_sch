@@ -1837,7 +1837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 150.622 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -1896,7 +1896,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "29b6b6c0-6eea-4c8b-8ad0-beaa8cfa8bce")
-		(property "Reference" "C13"
+		(property "Reference" "C15"
 			(at 40.64 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1907,7 +1907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ 35V"
+		(property "Value" "10µ 16V"
 			(at 40.64 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1918,7 +1918,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 39.0652 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1960,7 +1960,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "C13")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -1977,7 +1977,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cc00c2c-3d38-4355-9aca-2ae68fa3c26e")
-		(property "Reference" "C15"
+		(property "Reference" "C17"
 			(at 80.264 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1988,7 +1988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ 35V"
+		(property "Value" "10µ 16V"
 			(at 80.264 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1999,7 +1999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 78.4352 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2041,7 +2041,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "C15")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -2081,7 +2081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 150.622 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -2470,7 +2470,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0f7f77d-6dec-4f50-9326-b5775df9b7a4")
-		(property "Reference" "C16"
+		(property "Reference" "C18"
 			(at 95.504 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2481,7 +2481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ 35V"
+		(property "Value" "10µ 16V"
 			(at 95.504 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2492,7 +2492,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 93.6752 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2534,7 +2534,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "C16")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -2633,7 +2633,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9ab9ee0-9006-4a22-821c-6e1bf1cca5db")
-		(property "Reference" "C14"
+		(property "Reference" "C16"
 			(at 65.024 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2644,7 +2644,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ 35V"
+		(property "Value" "10µ 16V"
 			(at 65.024 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2655,7 +2655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 63.1952 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2697,7 +2697,7 @@
 		(instances
 			(project "Dynakku"
 				(path "/ae2c3cd8-d75c-4533-b378-e05723f24e06"
-					(reference "C14")
+					(reference "C16")
 					(unit 1)
 				)
 			)
