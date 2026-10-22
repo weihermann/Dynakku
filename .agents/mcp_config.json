@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "kicad": {
+      "command": "/home/dawg/.local/bin/uvx",
+      "args": [
+        "kicad-mcp-pro"
+      ],
+      "env": {
+        "KICAD_MCP_PROJECT_DIR": "/home/dawg/Dokumente/KiCad/Dynakku",
+        "KICAD_MCP_OPERATING_MODE": "write",
+        "KICAD_MCP_KICAD_CLI": "/home/dawg/.local/bin/kicad-cli"
+      }
+    }
+  }
+}

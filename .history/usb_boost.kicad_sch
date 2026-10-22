@@ -2574,7 +2574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-2020"
 			(at 118.11 80.01 0)
 			(hide yes)
 			(show_name no)
