@@ -1989,10 +1989,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "91518573-4c22-4968-9c88-70d4a8e35d9f")
 		(property "Reference" "U2"
-			(at 45.72 20.32 0)
+			(at 45.72 21.336 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2002,7 +2001,7 @@
 			)
 		)
 		(property "Value" "BQ29700"
-			(at 45.72 22.86 0)
+			(at 45.72 23.876 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
