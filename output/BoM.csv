@@ -1,25 +1,25 @@
-"ID";"Bezeichner";"Footprint";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
-1;"C1";"C_Radial_D16.0mm_H25.0mm_P7.50mm";1;"ECE-A1HN331U, 330µ 35V";;;
-2;"C2";"CP_Elec_18x22";1;"UUE1V102MNS6MS, 1000µ 35V";;;
-3;"C3, C5, C7, C8, C9, C10";"C_0805_2012Metric";6;"1µ 50V";;;
-4;"C4, C6, C11, C14";"C_0603_1608Metric";4;"100n 50V";;;
-5;"C12, C13, C15, C16, C17, C18";"C_0805_2012Metric";6;"10µ 16V";;;
-6;"D1, D2, D3, D4, D6, D7";"D_SMC";6;"SS34";;;
-7;"D5";"SOT-23";1;"BZX84C20";;;
-8;"D8";"D_SOD-523";1;"ESD5Z5.0";;;
-9;"F1";"Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"8A";;;
-10;"J1, J2, J4, J5";"PinHeader_1x01_P2.54mm_Vertical";4;"Conn_01x01_Pin";;;
-11;"J6";"SAMESKY_UJC-H-G-SMT-2-P6-TR";1;"UJC-V-G-SMT-P6-TR";;;
-12;"L1";"L_Vishay_IHLP-2525";1;"10µ";;;
-13;"L2";"L_Vishay_IHLP-2020";1;"IHLP2020BZER1R0M01";;;
-14;"Q1, Q2, Q3, Q4, Q5";"VSONP-8-1EP_5x6_P1.27mm";5;"CSD17577Q3A";;;
-15;"R1, R13";"R_0603_1608Metric";2;"2.2k";;;
-16;"R2, R5, R6, R7, R16, R17";"R_0603_1608Metric";6;"10k";;;
-17;"R3, R14";"R_0603_1608Metric";2;"750k";;;
-18;"R4, R10, R11, R15";"R_0603_1608Metric";4;"100k";;;
-19;"R8";"R_0603_1608Metric";1;"10";;;
-20;"R9";"R_0603_1608Metric";1;"20m";;;
-21;"R12";"R_0603_1608Metric";1;"300";;;
-22;"U1";"Texas_RVA_VQFN-16-1EP_3.5x3.5mm_P0.5mm_EP2.14x2.14mm_ThermalVias";1;"BQ24650";;;
-23;"U2";"WSON-6_1.5x1.5mm_P0.5mm";1;"BQ29700";;;
-24;"U3";"Texas_RWU0007A_VQFN-7_2x2mm_P0.5mm";1;"TPS61022";;;
+ID;Bezeichner;Footprint;Stückzahl;Bezeichnung;Anbieter und Referenz;Bestellmenge
+1;C1;C_Radial_D16.0mm_H25.0mm_P7.50mm;1;ECE-A1HN331U, 330µ 35V;;
+2;C2;CP_Elec_18x22;1;UUE1V102MNS6MS, 1000µ 35V;;
+3;C3, C5, C7, C8, C9, C10;C_0805_2012Metric;6;1µ 50V;;
+4;C4, C6, C11, C14;C_0603_1608Metric;4;100n 50V;;
+5;C12, C13, C15, C16, C17, C18;C_0805_2012Metric;6;10µ 16V;;
+6;D1, D2, D3, D4, D6, D7;D_SMC;6;SS34;;
+7;D5;SOT-23;1;BZX84C20;;
+8;D8;D_SOD-523;1;ESD5Z5.0;;
+9;F1;Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder;1;8A;;
+10;J1, J2, J4, J5;PinHeader_1x01_P2.54mm_Vertical;4;Conn_01x01_Pin;;
+11;J6;SAMESKY_UJC-H-G-SMT-2-P6-TR;1;UJC-V-G-SMT-P6-TR;;
+12;L1;L_Vishay_IHLP-2525;1;10µ;;
+13;L2;L_Vishay_IHLP-2020;1;IHLP2020BZER1R0M01;;
+14;Q1, Q2, Q3, Q4, Q5;VSONP-8-1EP_5x6_P1.27mm;5;CSD17577Q3A;;
+15;R1, R13;R_0603_1608Metric;2;2.2k;;10
+16;R2, R5, R6, R7, R16, R17;R_0603_1608Metric;6;10k;;25
+17;R3, R14;R_0603_1608Metric;2;750k;;10
+18;R4, R10, R11, R15;R_0603_1608Metric;4;100k;;20
+19;R8;R_0603_1608Metric;1;10;;10
+20;R9;R_0603_1608Metric;1;20m;;5
+21;R12;R_0603_1608Metric;1;300;;10
+22;U1;Texas_RVA_VQFN-16-1EP_3.5x3.5mm_P0.5mm_EP2.14x2.14mm_ThermalVias;1;BQ24650;;
+23;U2;WSON-6_1.5x1.5mm_P0.5mm;1;BQ29700;;
+24;U3;Texas_RWU0007A_VQFN-7_2x2mm_P0.5mm;1;TPS61022;;
